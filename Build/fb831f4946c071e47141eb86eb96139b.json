@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Eli Keone Plane",
+"dataUrl": "5b29f6bb4cede894c9e4a8957a97fd5b.unityweb",
+"wasmCodeUrl": "721d320b70f63bdb98c65c28c7da3cd6.unityweb",
+"wasmFrameworkUrl": "9c9843cf3025cab1dd6defcc936d683c.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
